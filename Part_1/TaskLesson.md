@@ -40,3 +40,15 @@ __Необходимые данные:__
 
 - Подумайте, какие данные и в какие таблицы необходимо разложить.
 - Решение: аналогично первой большой задаче. 
+
+## Google Sheets для работы по залам:
+**Зал 1(Основной зал)** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1WJPMQl5qZR8Lv6IzfdKbvxl0Skf0IzmFJZdrDDja_0g/edit?usp=sharing)
+**Зал 2** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1vO652BIPUxqo8QXN8bJuGo24bjnbVnAoUriteOFLCQ4/edit?usp=sharing)
+**Зал 3** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1eMqRntlVvpvsG_alQy389zGqYHJPuqcAgXPW5_kDJdo/edit?usp=sharing)
+**Зал 4** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/192-ZxDzNpR8HAD6E2sa3JdZ6QIUB7dVMg8H0r0xzQ4s/edit?usp=sharing)
+**Зал 5(если потребуется)** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1QpCyRKh8zpUyP53HAPMIwDsggywaQ850yjEKXZKXKPY/edit?usp=sharing)
+**Зал 6(если потребуется)** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1iWmyu80tOBaDjrVRSsaLAx_KR4slFcx9hmwoKBXN7lE/edit?usp=sharing)
+**Зал 7(если потребуется)** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1GTDv8t2RQjUwMCJ13QGQKMTSwniFYR6J4eroS9I8jKw/edit?usp=sharing)
+
+
+
