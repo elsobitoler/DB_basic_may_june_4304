@@ -38,3 +38,12 @@ OR Статус = «холост»
 5. SELECT ФИО, Тел, Коммент FROM Люди LEFT JOIN Телефоны ON id = Чей телефон
 6. SELECT * FROM Люди INNER JOIN Телефоны ON id = Чей телефон INNER JOIN Адреса ON id = Чей адрес
 7. SELECT ФИО, Тел, Адрес FROM Люди INNER JOIN Телефоны ON id = Чей телефон INNER JOIN Адреса ON id = Чей адрес WHERE ФИО = «Петров П.П.»
+
+## Google Sheets для работы по залам:
+**Зал 1(Основной зал)** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/17qyyi52Sfig6IjJceZzCuwCrwQL2mEIIfZz2E7aErws/edit?usp=sharing)
+
+**Зал 2** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1aXT6bLoKz_IXhsGQs-1SDWAJZoKa9PWH6WgSGYT94E4/edit?usp=sharing)
+
+**Зал 3** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1Ow-nREdv2JBt5BnH92udDvrHhxuWj3NhlhBTD3PPF6I/edit?usp=sharing)
+
+**Зал 4** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1kDlXciV32ZbUvEqFJf_HCY-4ZbQrGIJzm_JZDqV0HdI/edit?usp=sharing)
