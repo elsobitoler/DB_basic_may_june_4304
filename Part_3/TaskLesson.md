@@ -52,3 +52,17 @@
 Есть некоторая компания, которая предоставляет автомобили в аренду. Нужно описать примерную структуру БД для хранения информации об арендуемых автомобилях.
 
 По примеру созданных таблиц выше.
+
+
+
+## Google Sheets для работы по залам:
+**Зал 1(Основной зал)** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1UwN6D1aUOcZLsiWV03L9T2QUK46LFWYsxOGZpI5nfhQ/edit?usp=sharing)
+
+**Зал 2** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1Cjxv639DjJy4seI7KX6UI_eDt-jl08aY6oHCJGWZDwc/edit?usp=sharing)
+
+**Зал 3** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1l248TMt3w8ih2JeVFMu4i7BInFMHeMQA_en0FYdo3uQ/edit?usp=sharing)
+
+**Зал 4** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1F0ukkpcaWv7CTYDNdXua6-waiuNeE9wxKvE0D6nlxg4/edit?usp=sharing)
+
+**Зал 5** : [Ссылка на документ](https://docs.google.com/spreadsheets/d/1wb83PPIcdowdEuFnNXz8rUCU5HcxYPIRWpKzxmnlG74/edit?usp=sharing)
+
